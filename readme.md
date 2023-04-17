@@ -26,7 +26,7 @@ The app has the following navigation:
 ![Contract View 2 Screenshot](https://drive.google.com/file/d/18UmSgjBR1a3GXjttZVIbo6i-EE3EzfsO/view?usp=share_link)
 ![Contract View 3 Screenshot](https://drive.google.com/file/d/1QzPOY6k0N6J2foWGfBC6aCYbG3gcs--H/view?usp=share_link)
 4. Contract Actions: Users can click on the contracts to see what actions they can perform. The available actions are based on their role for that contract, such as owner, counterpart, or admin.
-![Contract Actions 1 Screenshot](https://drive.google.com/file/d/1I4NZwh2ejXQ2jhzY1LWhIGL7oeOZ8qL8/view?usp=share_link)
+![Contract Actions 1 Screenshot](https://drive.google.com/drive/u/0/folders/10Pj7Vm3iL5zYEm72VXjHRsHaI5KtqJk4)
 ![Contract Actions 2 Screenshot](https://drive.google.com/file/d/1oMsb0eVxyCyHdL5uxTwYJzTunjo0Rodf/view?usp=share_link)
 ![Contract Actions 3 Screenshot](https://drive.google.com/file/d/1Jo6VQgGjB2ayfYDf7TWgo0bI35fePiLG/view?usp=share_link)
 
