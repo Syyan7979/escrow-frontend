@@ -1,0 +1,4 @@
+.contract-overview:hover {
+    cursor: pointer;
+    background-color: green;
+}

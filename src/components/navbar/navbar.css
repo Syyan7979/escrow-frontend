@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #141c24;
+    width: 100vw;
+}
+
+.navbar-container {
+    max-width: none;
+    margin: 0 5%;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.connect-button {
+    background-color: #23b3b8;
+    border: none;
+}
+
+.connect-button:hover {
+    background-color: #38e5e7;
+}
+
+.connect-button > .connect-button-text {
+    color: white;
+    font-weight: bold;
+}
