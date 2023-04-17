@@ -16,7 +16,8 @@ import AdminContracts from "./components/admin-contracts/admin-contracts";
 const App = () => {
   const [show, setShow] = React.useState<boolean>(false);
   const [account, setAccount] = React.useState<string>("");
-  const [contractAddresses, setContractAddresses] = React.useState<string[]>(['KT1KYLJz4Ws8znSf1wHRkwqtndkuwH1NsZCR', 'KT1KYR676FBzmJ173bGqQK3Nw9FY7WuhngwH', 'KT1JVqrW2uYjXuCoeFLyhtsczRXU2NU1pEjr', 'KT1MU5e2eEqBZaGSnnRGD42CXnCuvUiJaegy']); // TODO: [1
+  const contractAddresses = ['KT1KYLJz4Ws8znSf1wHRkwqtndkuwH1NsZCR', 'KT1KYR676FBzmJ173bGqQK3Nw9FY7WuhngwH', 'KT1JVqrW2uYjXuCoeFLyhtsczRXU2NU1pEjr', 'KT1MU5e2eEqBZaGSnnRGD42CXnCuvUiJaegy'];
+  //const [contractAddresses, setContractAddresses] = React.useState<string[]>(['KT1KYLJz4Ws8znSf1wHRkwqtndkuwH1NsZCR', 'KT1KYR676FBzmJ173bGqQK3Nw9FY7WuhngwH', 'KT1JVqrW2uYjXuCoeFLyhtsczRXU2NU1pEjr', 'KT1MU5e2eEqBZaGSnnRGD42CXnCuvUiJaegy']); // TODO: [1
 
   const updateAccount = (account: string) => {
     setAccount(account);
@@ -28,6 +29,7 @@ const App = () => {
   const handleConfirm = (contract: Contract) => {
     console.log(contract);
   }
+  
 
   return (
     <AccountContext.Provider value={account}>
