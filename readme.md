@@ -1,1 +1,25 @@
+# Escrow Frontend
 
+This project is part of the mini-project 2 for CS 173, which focuses on topics in software technology, specifically blockchain technologies.
+
+## Deployed Netlify URL
+
+The frontend for this project is deployed on Netlify and can be accessed at: [https://643d8df0ee189a0008cdede1--delicate-semifreddo-ead992.netlify.app](https://643d8df0ee189a0008cdede1--delicate-semifreddo-ead992.netlify.app)
+
+## Requirements to Use the App
+
+To use the app, you will need an account with one of the following addresses:
+
+- Owner / Counterparty: `tz1hR44gwZNVWGJFUQiRJdedvCmAdPUHgkBC` or `tz1SWWafK382BqUpgsv26qDJUmswxWYX5Xq`
+- Admin: `tz1MLvzp18yuBX6umbSPAEgeJnqAzm65w9Zq`
+
+## App Navigation
+
+The app has the following navigation:
+
+1. Initial Look: The app's initial look, which provides an overview of the functionality.
+2. Connecting Wallet Account: Users can connect their wallet account with any of the required addresses.
+3. Contract View: Once an account is connected, the view is updated to show all the contracts that the account either owns or is a counterparty to.
+4. Contract Actions: Users can click on the contracts to see what actions they can perform. The available actions are based on their role for that contract, such as owner, counterpart, or admin.
+
+Please note that this app serves as the frontend for the escrow project and requires the corresponding backend implementation for full functionality.
