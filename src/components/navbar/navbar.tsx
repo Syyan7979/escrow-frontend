@@ -14,7 +14,7 @@ export default function CustomNavbar(props : NavbarProps) {
             props.onUpdateContext(activeAccount);
         }
         getActiveAccount();
-    }, []);
+    });
 
     const truncateAddress = (address: string) => {
         return address.substring(0, 7) + "..." + address.substring(address.length - 4, address.length);
