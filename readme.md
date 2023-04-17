@@ -18,16 +18,16 @@ To use the app, you will need an account with one of the following addresses:
 The app has the following navigation:
 
 1. Initial Look: The app's initial look, which provides an overview of the functionality.
-![Initial Look Screenshot](https://drive.google.com/file/d/1oPlLNarDz8wUss7_POTlOLkiviqxCpQR/view?usp=share_link)
+![Initial Look Screenshot](https://ibb.co/N2V8v1Z)
 2. Connecting Wallet Account: Users can connect their wallet account with any of the required addresses.
-![Connecting Wallet Account Screenshot](https://drive.google.com/file/d/15ER2maMHg6Ou6eJd2NHWmB1d4CpNAbeC/view?usp=share_link)
+![Connecting Wallet Account Screenshot]()
 3. Contract View: Once an account is connected, the view is updated to show all the contracts that the account either owns or is a counterparty to.
-![Contract View 1 Screenshot](https://drive.google.com/file/d/1XTsWLCVQFcV_SSKSazhNzFeskZYlNOnj/view?usp=share_link)
-![Contract View 2 Screenshot](https://drive.google.com/file/d/18UmSgjBR1a3GXjttZVIbo6i-EE3EzfsO/view?usp=share_link)
-![Contract View 3 Screenshot](https://drive.google.com/file/d/1QzPOY6k0N6J2foWGfBC6aCYbG3gcs--H/view?usp=share_link)
+![Contract View 1 Screenshot](https://ibb.co/M9gKvwN)
+![Contract View 2 Screenshot](https://ibb.co/yXTkpPK)
+![Contract View 3 Screenshot](https://ibb.co/t8bd5BT)
 4. Contract Actions: Users can click on the contracts to see what actions they can perform. The available actions are based on their role for that contract, such as owner, counterpart, or admin.
-![Contract Actions 1 Screenshot](https://drive.google.com/drive/u/0/folders/10Pj7Vm3iL5zYEm72VXjHRsHaI5KtqJk4)
-![Contract Actions 2 Screenshot](https://drive.google.com/file/d/1oMsb0eVxyCyHdL5uxTwYJzTunjo0Rodf/view?usp=share_link)
-![Contract Actions 3 Screenshot](https://drive.google.com/file/d/1Jo6VQgGjB2ayfYDf7TWgo0bI35fePiLG/view?usp=share_link)
+![Contract Actions 1 Screenshot](https://ibb.co/gwbrHDr)
+![Contract Actions 2 Screenshot](https://ibb.co/1M7g7SD)
+![Contract Actions 3 Screenshot](https://ibb.co/NFBRJbp)
 
 Please note that this app serves as the frontend for the escrow project and requires the corresponding backend implementation for full functionality.
