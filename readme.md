@@ -19,28 +19,32 @@ The app has the following navigation:
 
 1. Initial Look: The app's initial look, which provides an overview of the functionality.
 
-![Initial Look Screenshot](https://i.ibb.co/nMgHG3z/1.png)
+<div align="center">
+  <img src="https://i.ibb.co/nMgHG3z/1.png" alt="Initial Look Screenshot">
+</div>
 
 2. Connecting Wallet Account: Users can connect their wallet account with any of the required addresses.
 
-![Connecting Wallet Account Screenshot](https://i.ibb.co/HP1qMyx/2.png)
+<div align="center">
+  <img src="https://i.ibb.co/HP1qMyx/2.png" alt="Connecting Wallet Account Screenshot">
+</div>
 
 3. Contract View: Once an account is connected, the view is updated to show all the contracts that the account either owns or is a counterparty to.
 
-![Contract View 1 Screenshot](https://i.ibb.co/M9gKvwN/3.png)
-
-![Contract View 2 Screenshot](https://i.ibb.co/yXTkpPK/4.png)
-
-![Contract View 3 Screenshot](https://i.ibb.co/t8bd5BT/5.png)
+<div align="center">
+  <img src="https://i.ibb.co/M9gKvwN/3.png" alt="Contract View 1 Screenshot">
+  <img src="https://i.ibb.co/yXTkpPK/4.png" alt="Contract View 2 Screenshot">
+  <img src="https://i.ibb.co/t8bd5BT/5.png" alt="Contract View 3 Screenshot">
+</div>
 
 4. Contract Actions: Users can click on the contracts to see what actions they can perform. The available actions are based on their role for that contract, such as owner, counterpart, or admin.
 
-![Contract Actions 1 Screenshot](https://i.ibb.co/gwbrHDr/6.png)
+<div align="center">
+  <img src="https://i.ibb.co/gwbrHDr/6.png" alt="Contract Actions 1 Screenshot">
+  <img src="https://i.ibb.co/1M7g7SD/7.png" alt="Contract Actions 2 Screenshot">
+  <img src="https://i.ibb.co/NFBRJbp/8.png" alt="Contract Actions 3 Screenshot">
+</div>
 
-![Contract Actions 2 Screenshot](https://i.ibb.co/1M7g7SD/7.png)
+## Note
 
-![Contract Actions 3 Screenshot](https://i.ibb.co/NFBRJbp/8.png)
-
-**Note:** The create contract button opens a modal where you enter the values for the contract to be created. However, due to limitations with Netlify, the app won't be able to create a contract when you click on the create button inside the modal. This is because it requires the use of creating a child process to run the smartpy compile command, which Netlify doesn't support. Please keep this in mind while using the app.
-
-Please note that this app serves as the frontend for the escrow project and requires the corresponding backend implementation for full functionality.
+Please note that the "Create Contract" button opens a modal where you can enter the values for the contract to be created. However, the app currently does not support the actual creation of a contract when you click on the "Create" button inside the modal. This is because it requires the use of creating a child process to run the smartpy compile command, which Netlify does not support.
