@@ -41,4 +41,6 @@ The app has the following navigation:
 
 ![Contract Actions 3 Screenshot](https://i.ibb.co/NFBRJbp/8.png)
 
+**Note:** The create contract button opens a modal where you enter the values for the contract to be created. However, due to limitations with Netlify, the app won't be able to create a contract when you click on the create button inside the modal. This is because it requires the use of creating a child process to run the smartpy compile command, which Netlify doesn't support. Please keep this in mind while using the app.
+
 Please note that this app serves as the frontend for the escrow project and requires the corresponding backend implementation for full functionality.
