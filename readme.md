@@ -18,7 +18,7 @@ To use the app, you will need an account with one of the following addresses:
 The app has the following navigation:
 
 1. Initial Look: The app's initial look, which provides an overview of the functionality.
-![Initial Look Screenshot](https://ibb.co/N2V8v1Z)
+![Initial Look Screenshot](https://ibb.co/N2V8v1Z/1.png)
 2. Connecting Wallet Account: Users can connect their wallet account with any of the required addresses.
 ![Connecting Wallet Account Screenshot]()
 3. Contract View: Once an account is connected, the view is updated to show all the contracts that the account either owns or is a counterparty to.
