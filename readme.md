@@ -20,9 +20,11 @@ The app has the following navigation:
 1. Initial Look: The app's initial look, which provides an overview of the functionality.
 
 ![Initial Look Screenshot](https://i.ibb.co/nMgHG3z/1.png)
+
 2. Connecting Wallet Account: Users can connect their wallet account with any of the required addresses.
 
 ![Connecting Wallet Account Screenshot](https://i.ibb.co/HP1qMyx/2.png)
+
 3. Contract View: Once an account is connected, the view is updated to show all the contracts that the account either owns or is a counterparty to.
 
 ![Contract View 1 Screenshot](https://i.ibb.co/M9gKvwN/3.png)
